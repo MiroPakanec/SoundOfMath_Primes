@@ -1,0 +1,16 @@
+E:\~Work\@VisualStudio\SoundOfMath\SOM_Primes_folder\SOM_Primes\SOM_Primes\bin\Debug\SOM_Primes.exe.config
+E:\~Work\@VisualStudio\SoundOfMath\SOM_Primes_folder\SOM_Primes\SOM_Primes\obj\Debug\SOM_Primes.csprojResolveAssemblyReference.cache
+E:\~Work\@VisualStudio\SoundOfMath\SOM_Primes_folder\SOM_Primes\SOM_Primes\obj\Debug\SOM_Primes.Properties.Resources.resources
+E:\~Work\@VisualStudio\SoundOfMath\SOM_Primes_folder\SOM_Primes\SOM_Primes\obj\Debug\SOM_Primes.csproj.GenerateResource.Cache
+E:\~Work\@VisualStudio\SoundOfMath\SOM_Primes_folder\SOM_Primes\SOM_Primes\bin\Debug\SOM_Primes.exe
+E:\~Work\@VisualStudio\SoundOfMath\SOM_Primes_folder\SOM_Primes\SOM_Primes\bin\Debug\SOM_Primes.pdb
+E:\~Work\@VisualStudio\SoundOfMath\SOM_Primes_folder\SOM_Primes\SOM_Primes\obj\Debug\SOM_Primes.exe
+E:\~Work\@VisualStudio\SoundOfMath\SOM_Primes_folder\SOM_Primes\SOM_Primes\obj\Debug\SOM_Primes.pdb
+E:\~Work\@VisualStudio\SoundOfMath\SOM_Primes\SOM_Primes\bin\Debug\SOM_Primes.exe.config
+E:\~Work\@VisualStudio\SoundOfMath\SOM_Primes\SOM_Primes\obj\Debug\SOM_Primes.exe
+E:\~Work\@VisualStudio\SoundOfMath\SOM_Primes\SOM_Primes\obj\Debug\SOM_Primes.pdb
+E:\~Work\@VisualStudio\SoundOfMath\SOM_Primes\SOM_Primes\bin\Debug\SOM_Primes.exe
+E:\~Work\@VisualStudio\SoundOfMath\SOM_Primes\SOM_Primes\bin\Debug\SOM_Primes.pdb
+E:\~Work\@VisualStudio\SoundOfMath\SOM_Primes\SOM_Primes\obj\Debug\SOM_Primes.csprojResolveAssemblyReference.cache
+E:\~Work\@VisualStudio\SoundOfMath\SOM_Primes\SOM_Primes\obj\Debug\SOM_Primes.Properties.Resources.resources
+E:\~Work\@VisualStudio\SoundOfMath\SOM_Primes\SOM_Primes\obj\Debug\SOM_Primes.csproj.GenerateResource.Cache
